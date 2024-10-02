@@ -9,3 +9,6 @@ __pycache__/
 # Ignore data or datasets folder
 data/
 output_data/
+
+
+.env/
