@@ -1,0 +1,11 @@
+# .gitignore file
+# Ignore the virtual environment folder
+.venv/
+
+# Ignore Python bytecode files and __pycache__ directories
+__pycache__/
+*.py[cod]
+
+# Ignore data or datasets folder
+data/
+output_data/
